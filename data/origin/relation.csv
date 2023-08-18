@@ -1,0 +1,10 @@
+head_type,tail_type,relation,index
+None,None,None,0
+DEF,GEN,性别,1
+DEF,AGE,出生日期,2
+DEF,EDU,文化水平,3
+DEF,JOB,职业,4
+DEF,CRO,罪名,5
+DEF,LOC,出生地,6
+DEF,LOC,户籍,7
+DEF,LOC,现住址,8

@@ -1,0 +1,2 @@
+# the path of the model / checkpoint to be used
+fp: '/mnt/c/Users/HONOR HUNTER/Desktop/standard/checkpoints/2023-08-18_00-29-40/lm_epoch50.pth'
